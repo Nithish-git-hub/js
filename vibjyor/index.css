@@ -1,0 +1,33 @@
+/* .one{
+    padding: 15px 40px;
+    border-radius: 5%;
+    text-transform: uppercase;
+}
+#butn1{
+    background-color: violet;
+}
+#butn2{
+    background-color: indigo;
+}
+#butn3{
+    background-color: blue;
+}
+#butn4{
+    background-color: yellow;
+}
+#butn5{
+    background-color: green;
+}
+#butn6{
+    background-color: orange;
+}
+#butn7{
+    background-color: red;
+} */
+
+.buttons{
+    border: none;
+    padding: 15px 40px;
+    border-radius: 5%;
+    margin-left: 1%;
+}
