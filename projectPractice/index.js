@@ -49,7 +49,7 @@ let alldata = (data) => {
         displaydata(item);
     }
 
-    }
+    }        
 };
 let fetchData = async (search) => {
     try {
